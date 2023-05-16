@@ -9,5 +9,6 @@ git add README.md.
 git status
 git commit -m 'First commint; testing'
 git status
+git push
 
 ## Note: Nathan: https://github.com/nisburgh/os1
