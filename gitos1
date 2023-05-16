@@ -1,0 +1,13 @@
+git clone git@github.com:rchout/os1.git
+git status
+git config --global user.name 'Raj Choutkuri'
+git config --global user.email 'unix72@gmail.com'; ll
+cd os1
+echo Test_rc edit to README.md >> README.md
+git status
+git add README.md.
+git status
+git commit -m 'First commint; testing'
+git status
+
+## Note: Nathan: https://github.com/nisburgh/os1
